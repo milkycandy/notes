@@ -1,0 +1,11 @@
+:root {
+  --vp-c-brand-1: #9b88c2;  /* 主色：紫藤 (Wisteria) */
+  --vp-c-brand-2: #7c6b9e;  /* 深色：暗紫晶 (Dark Amethyst) */
+  --vp-c-brand-3: #e5e1ef;  /* 亮色：晨雾 (Morning Mist) */
+}
+
+.dark {
+  --vp-c-brand-1: #b9a8e0;  /* 主色：亮紫藤 (Light Wisteria) */
+  --vp-c-brand-2: #9b88c2;  /* 深色：紫藤 (Wisteria) */
+  --vp-c-brand-3: #d2c9ec;  /* 亮色：淡紫雾 (Pale Lavender Mist) */
+}
