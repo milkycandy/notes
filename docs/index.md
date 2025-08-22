@@ -17,14 +17,17 @@ features:
   - icon:
       src: /stm32.png
     title: STM32
+    link: /stm32
     details: 寄存器、GPIO、外设、HAL、FreeRTOS、调试等0
   - icon:
       src: /Espressif_Standard_Logo_EN_Vertical.svg
     title: ESP32
+    link: /esp32
     details: 整理中…
   - icon:
        src: /linux.svg
     title: Linux
+    link: /linux
     details: 整理中…
 ---
 
