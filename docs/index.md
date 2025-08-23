@@ -18,7 +18,7 @@ features:
       src: /stm32.png
     title: STM32
     link: /stm32
-    details: 寄存器、GPIO、外设、HAL、FreeRTOS、调试等0
+    details: 整理中…
   - icon:
       src: /Espressif_Standard_Logo_EN_Vertical.svg
     title: ESP32
