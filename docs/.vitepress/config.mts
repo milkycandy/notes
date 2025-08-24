@@ -62,11 +62,20 @@ export default defineConfig({
     sidebar: {
       '/stm32/': [
         {
-          text: 'STM32',
+          text: '前言',
           collapsed: false,
           items: [
             { text: '前言', link: '/stm32/index' },
-            { text: 'GPIO', link: '/stm32/basic-gpio' }
+            { text: '认识STM32L476RG', link: '/stm32/intro/stm32l476rg.md' },
+            { text: '认识NUCLEO-L476RG开发板', link: '/stm32/intro/nucleo_l476rg.md' },
+            { text: '参考资料', link: '/stm32/intro/reference' }
+          ]
+        },
+        {
+          text: '从上电到main',
+          collapsed: false,
+          link: '/stm32/from-power-on-to-main',
+          items: [
           ]
         }
       ],

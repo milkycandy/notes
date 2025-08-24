@@ -11,7 +11,7 @@ hero:
     #   link: /stm32
     - theme: alt
       text: GitHub
-      link: https://github.com/milkycandy
+      link: https://github.com/milkycandy/notes
 
 features:
   - icon:
